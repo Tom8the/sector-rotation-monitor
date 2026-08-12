@@ -1,0 +1,12 @@
+# Explicit overrides take priority over source-provider industry labels.
+# Maintain only exceptions here; the normal mapping continues to use keywords.
+overrides:
+  "300740.SZ": "美容护理"
+  "300856.SZ": "美容护理"
+  "300957.SZ": "美容护理"
+  "301371.SZ": "美容护理"
+  "600315.SH": "美容护理"
+  "603605.SH": "美容护理"
+  "603630.SH": "美容护理"
+  "603983.SH": "美容护理"
+  "605009.SH": "美容护理"

@@ -1,0 +1,13 @@
+pandas
+requests
+tushare
+akshare
+mootdx
+stockstats
+curl_cffi
+PyYAML
+streamlit
+plotly
+pytest
+duckdb
+kaleido
