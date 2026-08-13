@@ -17,6 +17,24 @@
 - 日报生成：输出 Markdown、HTML 和图表资源，可选通过 Webhook 推送。
 - 本地缓存与历史库：原始数据保存为 CSV，加工结果写入 CSV 和 DuckDB，减少重复请求并支持历史查询。
 
+## 项目截图
+
+### 1. 行业轮动排名
+
+![行业轮动排名](docs/images/dashboard-overview.png)
+
+### 2. 板块走势对比
+
+![板块走势对比](docs/images/sector-trend-comparison.png)
+
+### 3. 北向资金分析
+
+![北向资金分析](docs/images/northbound-capital.png)
+
+### 4. 情绪异动监控
+
+![情绪异动监控](docs/images/sentiment-anomaly.png)
+
 ## 技术栈
 
 - Python 3.11+（已在 Python 3.14 环境验证）
