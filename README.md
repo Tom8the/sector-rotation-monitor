@@ -21,19 +21,27 @@
 
 ### 1. 行业轮动排名
 
-![行业轮动排名](docs/images/dashboard-overview.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tom8the/sector-rotation-monitor/main/docs/images/dashboard-overview.png" alt="行业轮动排名" width="100%">
+</p>
 
 ### 2. 板块走势对比
 
-![板块走势对比](docs/images/sector-trend-comparison.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tom8the/sector-rotation-monitor/main/docs/images/sector-trend-comparison.png" alt="板块走势对比" width="100%">
+</p>
 
 ### 3. 北向资金分析
 
-![北向资金分析](docs/images/northbound-capital.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tom8the/sector-rotation-monitor/main/docs/images/northbound-capital.png" alt="北向资金分析" width="100%">
+</p>
 
 ### 4. 情绪异动监控
 
-![情绪异动监控](docs/images/sentiment-anomaly.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tom8the/sector-rotation-monitor/main/docs/images/sentiment-anomaly.png" alt="情绪异动监控" width="100%">
+</p>
 
 ## 技术栈
 
